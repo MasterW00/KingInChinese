@@ -6,7 +6,7 @@ This is a Game made for your browser with online multiplayer and Wild, Agressive
 I wanted to use JS in a web game and make an applet in your broweser. I learned about Phaser 3 and decided to give that a crack as well.
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://photos.app.goo.gl/u8Wmgpq5A8gXshM3A)
+[Software Demo Video]([(https://youtu.be/UN6BCny8-6A))
 
 # Development Environment
 
